@@ -1,0 +1,3 @@
+ef128184-75d2-4eff-ae48-a41ebb106006
+
+curl --header 'Content-Type: application/json' --header 'apikey:ef128184-75d2-4eff-ae48-a41ebb106006' --data '{}' --request POST 'https://qa-models.a360.ai/use-case-logistics-logistics-dt-1/'
