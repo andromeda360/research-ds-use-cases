@@ -1,0 +1,15 @@
+Requirements,SageMaker ,A360 AI , Comments
+Upload Dataset,Yes,Yes, UI on A360 AI and S3 on AWS
+Load Data,Yes,Yes, On A360 using their MDK whereas using boto3 on Sagemaker
+Data Preprocessing,Yes,Yes, Both are Similar
+Upload Preprocessed Data,Yes,Yes, Need to upload data usig boto3 to S3 on amazon whereasA360 utilizes its MDK
+Model Training,Yes,Yes, Both are Similar
+Automated Model Saving,Yes,Yes, Similar but SageMaker Studio makes it hard to find the documentation
+Model Development and Tuning,Yes,Yes, Both are Similar
+Automated Model Registry,Yes,Yes, Both are Similar
+Model Deployment,Yes,Yes, A360 is 5 times faster than SageMaker Studio
+Model Review,No,Yes, SageMaker Studio does not provide peer review support before deployment
+Data Transport to cloud,Yes ,Yes, Both are Similar
+Notebook Co-working,Yes,Yes, Both are Similar
+Inference,Yes,Yes, Both are Similar
+Monitoring,Yes,Yes, Need 300+ lines of code on SageMaker Studio to specify visualisations whereas none on A360 AI
