@@ -1,6 +1,7 @@
+
 # Boston Crime Prediction and Crime Analysis
-Access [web app](http://boston-crime.herokuapp.com/)<br />
 ![Screenshot](https://phcrestoration.com/wp-content/uploads/2021/08/93708404_s.jpeg)<br />
+Access [web app](http://boston-crime.herokuapp.com/)<br />
 
 Use `requirements.txt` to install dependencies to run web app locally: <br />
 `pip install -r requirements.txt`<br />
