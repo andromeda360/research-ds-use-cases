@@ -1,6 +1,8 @@
 
 # Boston Crime Prediction and Crime Analysis
 ![Screenshot](https://phcrestoration.com/wp-content/uploads/2021/08/93708404_s.jpeg)<br />
+## Problem Statement: <br />
+>To analyse the crime hotspot and predict the number of crime that may take place  based on the geographical location. <br />
 Access [web app](http://boston-crime.herokuapp.com/)<br />
 
 Use `requirements.txt` to install dependencies to run web app locally: <br />
